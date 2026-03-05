@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large vector databases
+faiss_index/
+
+# Local data
+*.pdf
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db

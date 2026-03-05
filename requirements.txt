@@ -1,0 +1,10 @@
+streamlit>=1.32
+langchain>=0.2
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+langchain-huggingface>=0.1
+langchain-ollama>=0.1
+faiss-cpu>=1.7
+pypdf>=4.0
+sentence-transformers>=2.7
+huggingface-hub>=0.23
